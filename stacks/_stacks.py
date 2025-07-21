@@ -1,7 +1,6 @@
 #A stack is a data structure that can hold many elements, and 
 #the last element added is the first one to be removed.
 
-
 stack=[]
 
 #push
