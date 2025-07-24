@@ -43,3 +43,14 @@ node1 = insertNodeAtPosition(node1, newNode, 2)
 
 print("\nAfter insertion:")
 traverseAndPrint(node1)
+
+
+
+
+
+
+
+
+
+
+
